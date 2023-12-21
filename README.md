@@ -27,8 +27,8 @@ Der Code fwurde mit FOP 2.3 getestet.
 ## Ablage der XML-Dateien
 - ./input/xml
 
-## Ablage der Bild-Datein
-- ./input/images
+## Ablage der Bild-Dateien
+- ./input/images/pictures
 
 # Prozess
 1. Öffne Terminal und gehe in Verzeichnis
